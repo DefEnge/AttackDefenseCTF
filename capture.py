@@ -12,8 +12,8 @@ USERNAME = sys.argv[2]
 print(f"{INTERFACE=}")
 print(f"{USERNAME=}")
 
-LOG_DIR = f"/ctf/tulip/services/pcaps"
-DEST_DIR = f"/ctf/tulip/services/test_pcap"
+LOG_DIR = f"/ctf/logs/pcaps"
+DEST_DIR = f"/ctf/logs/test_pcap"
 EVE_FILE = "/var/log/suricata/eve.json"
 
 

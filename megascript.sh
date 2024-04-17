@@ -16,6 +16,9 @@ fi
 
 ## cartella di destinazione per tulip e regole suricata
 sudo mkdir -p /ctf
+sudo mkdir -p /logs
+sudo mkdir -p /ctf/logs/pcaps
+sudo mkdir -p /ctf/logs/test_pcap
 sudo apt update -y
 
 ## GIT INSTALL

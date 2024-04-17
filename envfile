@@ -2,7 +2,7 @@ FLAG_REGEX="[A-Z0-9]{31}(?:%3D|=)?"
 TULIP_MONGO="mongo:27017"
 
 # The location of your pcaps as seen by the host
-TRAFFIC_DIR_HOST="/ctf/tulip/services/test_pcap"
+TRAFFIC_DIR_HOST="/ctf/logs/test_pcap"
 
 # The location of your pcaps (and eve.json), as seen by the container
 TRAFFIC_DIR_DOCKER="/traffic"
