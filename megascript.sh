@@ -77,4 +77,4 @@ sudo screen -dmS capture python3 /ctf/tulip/services/capture.py $INTERFACE $USER
 ## START WEB MONITOR
 cd /ctf/tulip
 sudo usermod -aG docker $USER
-sudo docker-compose up
+sudo docker compose up
