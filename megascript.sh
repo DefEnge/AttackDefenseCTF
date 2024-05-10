@@ -32,7 +32,10 @@ cp /suricata.yaml /etc/suricata/suricata.yaml
 
 ## TULIP INSTALL
 cd /ctf
-git clone -b teameurope/frontend-features https://github.com/OpenAttackDefenseTools/tulip.git
+git clone https://github.com/alex1234ilpro/tulipG
+
+## Destructive Install
+git clone https://github.com/alex1234ilpro/DestructiveFarm
 
 # copia .env file
 cd tulip
