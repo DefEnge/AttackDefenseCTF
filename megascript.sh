@@ -5,7 +5,7 @@ set -x
 set -e
 
 ## interfaccia di rete
-INTERFACE="ens3"
+INTERFACE="game"
 
 #iptables rules
 
