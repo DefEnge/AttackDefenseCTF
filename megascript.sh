@@ -32,7 +32,7 @@ cp /suricata.yaml /etc/suricata/suricata.yaml
 
 ## TULIP INSTALL
 cd /ctf
-git clone https://github.com/alex1234ilpro/tulipG
+git clone https://github.com/alex1234ilpro/tulip
 
 ## Destructive Install
 git clone https://github.com/alex1234ilpro/DestructiveFarm
